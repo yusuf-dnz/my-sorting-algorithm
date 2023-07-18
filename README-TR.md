@@ -26,4 +26,5 @@ Döngü bu şekilde devam eder ve dizideki tüm elemanlar doğru yerlerine taş�
 ----
 Sonuç olarak, bu algoritma dizi içindeki sayıları küçükten büyüğe doğru sıralar. Seçme sıralama, veri kümesinin boyutu arttıkça verimsiz hale gelebilir ve diğer daha verimli sıralama algoritmaları tercih edilebilir. Ancak, algoritmanızı anlamak ve yazmak için bir başlangıç olarak oldukça değerlidir.
 
-![image](https://github.com/yusuf-sea/MySortingAlgorithm/assets/101550162/529f1d99-2fdc-4bbe-88c6-cf29ebb51f6a)
+![image](https://github.com/yusuf-sea/MySortingAlgorithm/assets/101550162/c40419d0-9e4a-4557-a091-9e52e595b61c)
+
