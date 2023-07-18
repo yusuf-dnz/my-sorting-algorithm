@@ -25,4 +25,5 @@ The working principle of this algorithm is based on how many numbers in the arra
 ----
 In conclusion, this algorithm sorts the numbers within the array from small to large. Selection sort may become inefficient as the size of the dataset increases, and other more efficient sorting algorithms may be preferred. However, understanding and writing this algorithm is a valuable starting point.
 
-![image](https://github.com/yusuf-sea/MySortingAlgorithm/assets/101550162/529f1d99-2fdc-4bbe-88c6-cf29ebb51f6a)
+![image](https://github.com/yusuf-sea/MySortingAlgorithm/assets/101550162/17a3f58e-cdc3-4566-8e87-a48ceaf81788)
+
