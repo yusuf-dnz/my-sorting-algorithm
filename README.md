@@ -1,7 +1,5 @@
-MySortingAlgorithm
+# My Sorting Algorithm
 
-Beginner level sorting algorithm.
-----
 The working principle of this algorithm is based on how many numbers in the array are greater or smaller than each element if sorting is to be performed within the array. This value is calculated for each element, and in each iteration, the index where an element should be placed is determined.
 
 * We start with a while loop. This loop will continue until the entire array is sorted.
